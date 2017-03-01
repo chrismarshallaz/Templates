@@ -3,16 +3,16 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "newStorageAccountName": {
-      "value": "myStorageAccount"
+      "value": "/subscriptions/c69448e4-6832-4a90-892f-38e153888fe8/resourceGroups/RG-AZITCAMP-LAB01"
     },
     "adminUsername": {
-      "value": "admin123"
+      "value": "Admin123"
     },
     "adminPassword": {
       "value": "ADmin123_!"
     },
     "dnsNameForPublicIP": {
-      "value": "myDnsName"
+      "value": "crmhjag"
     }
   }
 }
